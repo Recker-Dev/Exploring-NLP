@@ -1,4 +1,4 @@
-     # Sentiment Analysis Project with Text Preprocessing Techniques
+# Sentiment Analysis Project with Text Preprocessing Techniques
 
 ## Project Overview
 This project explores various **text preprocessing techniques** for sentiment analysis using a dataset of customer reviews. The goal is to evaluate the performance of different approaches in classifying the sentiment of text data. The techniques evaluated include:

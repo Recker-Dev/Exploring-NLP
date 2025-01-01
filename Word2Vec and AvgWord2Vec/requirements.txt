@@ -1,0 +1,7 @@
+ipykernel
+pandas
+bs4
+nltk
+gensim
+tqdm
+scikit-learn
